@@ -1,0 +1,4 @@
+matminer
+pymatgen
+pandas
+numpy
